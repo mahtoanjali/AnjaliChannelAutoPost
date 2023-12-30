@@ -43,7 +43,7 @@ async def _(event):
         f"Hi `{event.sender.first_name}`!\n\nI am a channel auto-post bot!! Read /help to know more!\n\nI can be used in only two channels (one user) at a time. Kindly deploy your own bot.\n\n[More bots](https://t.me/QUEENx_GOD)..",
         buttons=[
             Button.url("Repo", url="https://github.com/mahtoanjali/AnjaliChannelAutoPost"),
-            Button.url("Mahto", url="https://mahtoanjali"),
+            Button.url("Mahto", url="https://QUEENx_GOD"),
         ],
         link_preview=False,
     )
