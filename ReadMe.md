@@ -31,7 +31,7 @@ Add the above values to the environment vars and deploy the bot.
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
-Visit [@TeamCyphers](https://t.me/QUEENx_GOD) for help.
+Visit [@QUEENx_GOD](https://t.me/QUEENx_GOD) for help.
 ## Credits
 > [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/mahtoanjali/Telethon).   
 > [xditya](https://github.com/mahtoanjali), me.   
