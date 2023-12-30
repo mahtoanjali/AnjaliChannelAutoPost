@@ -90,5 +90,5 @@ async def _(event):
 
 
 log.info("Bot has started.")
-log.info("Do visit https://mahtoanjali !")
+log.info("Do visit https://QUEENx_GOD !")
 datgbot.run_until_disconnected()
