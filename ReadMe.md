@@ -1,6 +1,6 @@
 # Channel Auto-Post Bot
 
-Use the [usermode](https://github.com/xditya/ChannelAutoPost/tree/user) branch, if you want to forward messages without being an admin in the from channel.
+Use the [usermode](https://github.com/mahtoanjali/AnjaliChannelAutoPost/tree/user) branch, if you want to forward messages without being an admin in the from channel.
 
 This bot can send all new messages from channels, directly to another set of channels (or group, just in case), without the forwarded tag!
 
@@ -11,7 +11,7 @@ This bot can send all new messages from channels, directly to another set of cha
 > `FROM_CHANNEL` - The IDs of the main channel from where posts have to be copied, split by space. eg: `-100xxxx -100yyyy -100abcd ...`   
 > `TO_CHANNEL` - The ID of the channel to which the posts are to be sent, split by space. eg: `-100xxxx -100yyyy -100abcd ...`   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/ChannelAutoPost)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahtoanjali/AnjaliChannelAutoPost)
 
 * Chose a platform to deploy on:
 <details>
@@ -22,8 +22,8 @@ Add the above values to the environment vars and deploy the bot.
 <details>
 <summary>Local Deploys</summary>
 <br>
-- Clone the repo:   <code>git clone https://github.com/xditya/ChannelAutoForwarder</code></br>
-- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/xditya/ChannelAutoForwarder/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
+- Clone the repo:   <code>git clone https://github.com/mahtoanjali/AnjaliChannelAutoPost</code></br>
+- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/mahtoanjali/AnjaliChannelAutoPost/blob/main/.env.sample">.env.sample</a> and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
 
@@ -31,8 +31,8 @@ Add the above values to the environment vars and deploy the bot.
 Add the bot to both channels with admin permission, and thats it!
 All new messages will be auto-posted!!
 
-Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
+Visit [@TeamCyphers](https://t.me/QUEENx_GOD) for help.
 ## Credits
-> [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/LonamiWebs/Telethon).   
-> [xditya](https://github.com/xditya), me.   
+> [Lonami](https://github.com/LonamiWebs), for [Telethon](https://github.com/mahtoanjali/Telethon).   
+> [xditya](https://github.com/mahtoanjali), me.   
 > [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
