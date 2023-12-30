@@ -9,7 +9,7 @@
         "botzhub"
     ],
     "repository": "https://github.com/mahtoanjali/AnjaliChannelAutoPost",
-    "website": "xditya.me",
+    "website": "mahtoanjali",
     "success_url": "https://t.me/QUEENx_GOD",
     "env": {
         "BOT_TOKEN": {
