@@ -10,7 +10,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 #    General Public License for more details.
 #
-#    License can be found in < https://github.com/xditya/ChannelAutoForwarder/blob/main/License> .
+#    License can be found in < https://github.com/mahtoanjali/AnjaliChannelAutoPost/blob/main/License> .
 
 import logging
 from telethon import TelegramClient, events, Button
@@ -42,8 +42,8 @@ async def _(event):
     await event.reply(
         f"Hi `{event.sender.first_name}`!\n\nI am a channel auto-post bot!! Read /help to know more!\n\nI can be used in only two channels (one user) at a time. Kindly deploy your own bot.\n\n[More bots](https://t.me/its_xditya)..",
         buttons=[
-            Button.url("Repo", url="https://github.com/xditya/ChannelAutoForwarder"),
-            Button.url("Dev", url="https://xditya.me"),
+            Button.url("Repo", url="https://github.com/mahtoanjali/AnjaliChannelAutoPost"),
+            Button.url("Dev", url="https://mahtoanjali"),
         ],
         link_preview=False,
     )
